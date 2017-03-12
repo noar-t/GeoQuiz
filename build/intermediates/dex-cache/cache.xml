@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/noah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_ff118bafdea3d11fde9919e26fd51b27df517f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_d5262f33e71b5dad928feb46b43bcffab30ab8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_48fa8aec0d9c7b0153a67aeabaa8a2e1173c3389/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_3ab0b673aadd6ae8efd48485cb9e13f458dbed17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7001485999cace292b743d68934dd4fe3acb5bc">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_998f3b5bcda6f3d5b7bbc67816e64e1eed533280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_ae1f7209f41054d89c4a902efe176d10d54ce6a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aafbfc22c2cbe58ecf1132e28433f1cf7389960d">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc994308b7a3898e7166ef481db4c310315654ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_b93aa532846ab130302943882de9da2f168f2b9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_d613f60f834bbfe7e8251cd9387e04c1af5aae02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_607c74d9825e19d03fd8d6004ce1a9a033e1e785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_0dae76b897a2aa07eff7549bd634527ed5267bba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_6ae43a63daeb1f14b8bccc4ad785cd86808eafc9/classes.dex" />
+    </item>
+
+</items>
