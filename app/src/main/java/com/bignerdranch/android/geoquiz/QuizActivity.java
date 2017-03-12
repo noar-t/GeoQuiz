@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class QuizActivity extends AppCompatActivity {
 
-    private Button mTrueButtom;
+    private Button mTrueButton;
     private Button mFalseButton;
     private Button mNextButton;
     private TextView mQuestionTextView;
@@ -34,8 +34,8 @@ public class QuizActivity extends AppCompatActivity {
         //int question = mQuestionBank[mCurrentIndex].getTextResId();
         //mQuestionTextView.setText(question);
 
-        mTrueButtom = (Button) findViewById(R.id.true_button);
-        mTrueButtom.setOnClickListener(new View.OnClickListener() {
+        mTrueButton = (Button) findViewById(R.id.true_button);
+        mTrueButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View w) {
                 checkAnswer(true);
