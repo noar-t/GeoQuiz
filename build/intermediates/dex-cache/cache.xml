@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e7001485999cace292b743d68934dd4fe3acb5bc">
+        sha1="9c89d9764ddfb1363da74e521a3b3af3f1967b00">
         <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_998f3b5bcda6f3d5b7bbc67816e64e1eed533280/classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="aafbfc22c2cbe58ecf1132e28433f1cf7389960d">
+        sha1="2b589ccbb73c40339e118e2adb50bcabf600346f">
         <dex dex="/Users/noah/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc994308b7a3898e7166ef481db4c310315654ca/classes.dex" />
     </item>
     <item
